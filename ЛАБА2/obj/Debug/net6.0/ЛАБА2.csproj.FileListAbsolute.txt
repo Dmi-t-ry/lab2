@@ -1,0 +1,30 @@
+C:\Users\dimal\OneDrive\Рабочий стол\инфа\ЛАБА2\ЛАБА2\bin\Debug\net6.0\ЛАБА2.exe
+C:\Users\dimal\OneDrive\Рабочий стол\инфа\ЛАБА2\ЛАБА2\bin\Debug\net6.0\ЛАБА2.deps.json
+C:\Users\dimal\OneDrive\Рабочий стол\инфа\ЛАБА2\ЛАБА2\bin\Debug\net6.0\ЛАБА2.runtimeconfig.json
+C:\Users\dimal\OneDrive\Рабочий стол\инфа\ЛАБА2\ЛАБА2\bin\Debug\net6.0\ЛАБА2.dll
+C:\Users\dimal\OneDrive\Рабочий стол\инфа\ЛАБА2\ЛАБА2\bin\Debug\net6.0\ЛАБА2.pdb
+C:\Users\dimal\OneDrive\Рабочий стол\инфа\ЛАБА2\ЛАБА2\obj\Debug\net6.0\ЛАБА2.csproj.AssemblyReference.cache
+C:\Users\dimal\OneDrive\Рабочий стол\инфа\ЛАБА2\ЛАБА2\obj\Debug\net6.0\ЛАБА2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimal\OneDrive\Рабочий стол\инфа\ЛАБА2\ЛАБА2\obj\Debug\net6.0\ЛАБА2.AssemblyInfoInputs.cache
+C:\Users\dimal\OneDrive\Рабочий стол\инфа\ЛАБА2\ЛАБА2\obj\Debug\net6.0\ЛАБА2.AssemblyInfo.cs
+C:\Users\dimal\OneDrive\Рабочий стол\инфа\ЛАБА2\ЛАБА2\obj\Debug\net6.0\ЛАБА2.csproj.CoreCompileInputs.cache
+C:\Users\dimal\OneDrive\Рабочий стол\инфа\ЛАБА2\ЛАБА2\obj\Debug\net6.0\ЛАБА2.dll
+C:\Users\dimal\OneDrive\Рабочий стол\инфа\ЛАБА2\ЛАБА2\obj\Debug\net6.0\refint\ЛАБА2.dll
+C:\Users\dimal\OneDrive\Рабочий стол\инфа\ЛАБА2\ЛАБА2\obj\Debug\net6.0\ЛАБА2.pdb
+C:\Users\dimal\OneDrive\Рабочий стол\инфа\ЛАБА2\ЛАБА2\obj\Debug\net6.0\ЛАБА2.genruntimeconfig.cache
+C:\Users\dimal\OneDrive\Рабочий стол\инфа\ЛАБА2\ЛАБА2\obj\Debug\net6.0\ref\ЛАБА2.dll
+C:\Users\dimal\OneDrive\Рабочий стол\дз\Новая папка (2)\инфа\ЛАБА2\ЛАБА2\bin\Debug\net6.0\ЛАБА2.exe
+C:\Users\dimal\OneDrive\Рабочий стол\дз\Новая папка (2)\инфа\ЛАБА2\ЛАБА2\bin\Debug\net6.0\ЛАБА2.deps.json
+C:\Users\dimal\OneDrive\Рабочий стол\дз\Новая папка (2)\инфа\ЛАБА2\ЛАБА2\bin\Debug\net6.0\ЛАБА2.runtimeconfig.json
+C:\Users\dimal\OneDrive\Рабочий стол\дз\Новая папка (2)\инфа\ЛАБА2\ЛАБА2\bin\Debug\net6.0\ЛАБА2.dll
+C:\Users\dimal\OneDrive\Рабочий стол\дз\Новая папка (2)\инфа\ЛАБА2\ЛАБА2\bin\Debug\net6.0\ЛАБА2.pdb
+C:\Users\dimal\OneDrive\Рабочий стол\дз\Новая папка (2)\инфа\ЛАБА2\ЛАБА2\obj\Debug\net6.0\ЛАБА2.csproj.AssemblyReference.cache
+C:\Users\dimal\OneDrive\Рабочий стол\дз\Новая папка (2)\инфа\ЛАБА2\ЛАБА2\obj\Debug\net6.0\ЛАБА2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimal\OneDrive\Рабочий стол\дз\Новая папка (2)\инфа\ЛАБА2\ЛАБА2\obj\Debug\net6.0\ЛАБА2.AssemblyInfoInputs.cache
+C:\Users\dimal\OneDrive\Рабочий стол\дз\Новая папка (2)\инфа\ЛАБА2\ЛАБА2\obj\Debug\net6.0\ЛАБА2.AssemblyInfo.cs
+C:\Users\dimal\OneDrive\Рабочий стол\дз\Новая папка (2)\инфа\ЛАБА2\ЛАБА2\obj\Debug\net6.0\ЛАБА2.csproj.CoreCompileInputs.cache
+C:\Users\dimal\OneDrive\Рабочий стол\дз\Новая папка (2)\инфа\ЛАБА2\ЛАБА2\obj\Debug\net6.0\ЛАБА2.dll
+C:\Users\dimal\OneDrive\Рабочий стол\дз\Новая папка (2)\инфа\ЛАБА2\ЛАБА2\obj\Debug\net6.0\refint\ЛАБА2.dll
+C:\Users\dimal\OneDrive\Рабочий стол\дз\Новая папка (2)\инфа\ЛАБА2\ЛАБА2\obj\Debug\net6.0\ЛАБА2.pdb
+C:\Users\dimal\OneDrive\Рабочий стол\дз\Новая папка (2)\инфа\ЛАБА2\ЛАБА2\obj\Debug\net6.0\ЛАБА2.genruntimeconfig.cache
+C:\Users\dimal\OneDrive\Рабочий стол\дз\Новая папка (2)\инфа\ЛАБА2\ЛАБА2\obj\Debug\net6.0\ref\ЛАБА2.dll
